@@ -1,13 +1,13 @@
 <div class="card employee-card">
     <div class="card-header">
-        <h2 class="card-title">${Intern.name}</h2>
-        <h3 class="card-title"><i class="fas fa-user-graduate mr-2"></i>${Intern.role}</h3>
+        <h2 class="card-title">${empIntern.name}</h2>
+        <h3 class="card-title"><i class="fas fa-user-graduate mr-2"></i>${empIntern.getRole()}</h3>
     </div>
     <div class="card-body">
         <ul class="list-group">
-            <li class="list-group-item">ID: ${Intern.id}</li>
-            <li class="list-group-item">Email: <a href="mailto:{{ email }}">${Intern.email}</a></li>
-            <li class="list-group-item">School: ${Intern.school}</li>
+            <li class="list-group-item">ID: ${empIntern.id}</li>
+            <li class="list-group-item">Email: <a href="mailto:{{ email }}">${empIntern.email}</a></li>
+            <li class="list-group-item">School: ${empIntern.school}</li>
         </ul>
     </div>
 </div>
