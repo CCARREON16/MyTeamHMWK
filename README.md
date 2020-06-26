@@ -171,6 +171,7 @@ You are required to submit the following:
 * The URL of the GitHub repository
 
 * A video demonstrating the entirety of the app's functionality 
+* THIS IS MY LINK TO MY VIDEO https://drive.google.com/file/d/1lLkcTo4NMy2twsx8HO-NNH56HjAslIzr/view
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
